@@ -1,0 +1,21 @@
+region,country,symbol,name
+North America,USA,AAPL,Apple Inc.
+North America,USA,MSFT,Microsoft Corporation
+North America,USA,NVDA,NVIDIA Corporation
+North America,USA,GOOGL,Alphabet Inc.
+North America,USA,AMZN,Amazon.com Inc.
+North America,USA,META,"Meta Platforms, Inc."
+North America,USA,TSLA,"Tesla, Inc."
+North America,USA,V,Visa Inc.
+North America,USA,AVGO,Broadcom Inc.
+North America,USA,GOOG,"Alphabet Inc. (Class C)"
+Asia,Japan,7203.T,Toyota Motor Corporation
+Asia,Japan,6758.T,Sony Group Corporation
+Asia,Thailand,PTT.BK,PTT Public Company Limited
+Asia,Thailand,AOT.BK,Airports of Thailand PCL
+Asia,Thailand,KBANK.BK,Kasikornbank PCL
+Asia,China,600519.SS,Kweichow Moutai Co. Ltd.
+Europe,UK,BP.L,BP p.l.c.
+Europe,UK,HSBA.L,HSBC Holdings plc
+Europe,Germany,BMW.DE,BMW AG
+Europe,Germany,SAP.DE,SAP SE
